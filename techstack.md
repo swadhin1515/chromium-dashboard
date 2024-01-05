@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/chromium-dashboard is built on the following main stack:
+
 - [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
@@ -24,11 +25,13 @@ swadhin1515/chromium-dashboard is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/chromium-dashboard is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -51,14 +54,15 @@ swadhin1515/chromium-dashboard is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/chromium-dashboard](https://github.com/swadhin1515/chromium-dashboard)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|58<br/>Tools used|11/10/23 <br/>Report generated|
+|61<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -306,7 +310,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (31)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (34)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (30)
 
@@ -344,13 +348,16 @@ Full tech stack [here](/techstack.md)
 |[yargs-parser](https://www.npmjs.com/yargs-parser)|v20.2.9|05/17/23|dependabot[bot] |ISC|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (1)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[coverage](https://pypi.org/coverage)|v5.5|03/24/21|Shivam Agarwal |Apache-2.0|N/A|
+|[connexion](https://pypi.org/project/connexion)|v2.6.0|03/24/23|James C Scott III |Apache-2.0|N/A|
+|[coverage](https://pypi.org/project/coverage)|v5.5|03/24/21|Shivam Agarwal |Apache-2.0|N/A|
+|[mypy](https://pypi.org/project/mypy)|v0.982|10/24/22|Daniel Smith |MIT|N/A|
+|[setuptools](https://pypi.org/project/setuptools)|v21.0.0|03/24/23|James C Scott III |MIT|[CVE-2022-40897](https://github.com/advisories/GHSA-r9hx-vwmv-q579) (High)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
