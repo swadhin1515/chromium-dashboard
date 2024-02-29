@@ -1,0 +1,819 @@
+repo_name: swadhin1515/chromium-dashboard
+report_id: 7217eaf703a7b4ec3a82ce0e44e95080
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:29:41+00:00'
+requested_by: yanndago
+provider: github
+branch: main
+detected_tools_count: 61
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jason Robbins
+  last_updated_on: 2022-06-20 23:56:22.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  version: 2.3.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/requirements.txt
+  detection_source: gen/py/chromestatus_openapi/requirements.txt
+  last_updated_by: Jason Robbins
+  last_updated_on: 2023-05-02 17:07:57.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/.devcontainer/Dockerfile
+  detection_source: ".devcontainer/Dockerfile"
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-09-26 12:51:04.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 4.4.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-31 17:41:45.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: ".babelrc"
+  last_updated_by: Yangguang
+  last_updated_on: 2019-11-11 22:32:32.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: Eric Bidelman
+  last_updated_on: 2016-07-19 22:19:06.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-11-22 17:25:40.000000000 Z
+- name: Gunicorn
+  description: A Python WSGI HTTP Server for UNIX
+  website_url: http://gunicorn.org/
+  version: 20.1.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1091/gunicorn.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.dev.txt
+  detection_source: requirements.dev.txt
+  last_updated_by: Jason Robbins
+  last_updated_on: 2022-06-28 15:12:44.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.dev.txt
+  detection_source: requirements.dev.txt
+  last_updated_by: Jason Robbins
+  last_updated_on: 2021-01-15 23:50:36.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 15.1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-23 20:20:30.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/.travis.yml
+  detection_source: gen/py/chromestatus_openapi/.travis.yml
+  last_updated_by: James C Scott III
+  last_updated_on: 2023-03-24 21:26:49.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-10-25 14:12:23.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Eric Bidelman
+  last_updated_on: 2014-03-24 16:23:22.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/test-requirements.txt
+  detection_source: gen/py/chromestatus_openapi/test-requirements.txt
+  last_updated_by: James C Scott III
+  last_updated_on: 2023-03-24 21:26:49.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-05 22:19:09.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Yann Dago
+  last_updated_on: 2023-03-30 18:15:56.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard
+  detection_source: Repo Metadata
+- name: connexion
+  description: Swagger/OpenAPI First framework for Python on top of Flask with automatic
+    endpoint validation &amp; OAuth2 support
+  website_url: https://github.com/zalando/connexion
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10150/1564818.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/requirements.txt
+  detection_source: gen/py/chromestatus_openapi/requirements.txt
+  last_updated_by: James C Scott III
+  last_updated_on: 2023-03-24 21:26:49.000000000 Z
+- name: mypy
+  description: Developers of mypy, a Python variant with seamless dynamic and static
+    typing
+  website_url: http://mypy-lang.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7350/eaca159133a3901e24ddb407d1235c25_normal.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.dev.txt
+  detection_source: requirements.dev.txt
+  last_updated_by: Daniel Smith
+  last_updated_on: 2022-10-24 13:40:21.000000000 Z
+- name: setuptools
+  website_url: https://github.com/pypa/setuptools
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10517/647025.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/requirements.txt
+  detection_source: gen/py/chromestatus_openapi/requirements.txt
+  last_updated_by: James C Scott III
+  last_updated_on: 2023-03-24 21:26:49.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-02 16:56:08.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.18.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-05 22:19:09.000000000 Z
+- name: "@babel/plugin-syntax-dynamic-import"
+  description: Allow parsing of import
+  package_url: https://www.npmjs.com/@babel/plugin-syntax-dynamic-import
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16080/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-05 22:19:09.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.22.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-02 16:56:08.000000000 Z
+- name: "@babel/register"
+  description: Babel require hook
+  package_url: https://www.npmjs.com/@babel/register
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16014/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-02 16:56:08.000000000 Z
+- name: "@open-wc/testing"
+  description: Testing following open-wc recommendations
+  package_url: https://www.npmjs.com/@open-wc/testing
+  version: 3.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18264/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Panagiotis Astithas
+  last_updated_on: 2023-05-08 19:25:35.000000000 Z
+- name: "@polymer/iron-icon"
+  description: An element that supports displaying an icon
+  package_url: https://www.npmjs.com/@polymer/iron-icon
+  version: 3.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18600/default_3397f11bde97ca8f2273691776ca19b846d4097a.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Robbins
+  last_updated_on: 2020-11-06 19:14:44.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 15.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-05 22:19:09.000000000 Z
+- name: acorn
+  description: ECMAScript parser
+  package_url: https://www.npmjs.com/acorn
+  version: 8.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16344/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Daniel LaLiberte
+  last_updated_on: 2023-05-08 17:54:21.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eric Bidelman
+  last_updated_on: 2014-03-24 16:23:22.000000000 Z
+- name: dot-prop
+  description: Get
+  package_url: https://www.npmjs.com/dot-prop
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17800/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-09 02:40:17.000000000 Z
+- name: eslint-config-google
+  description: ESLint shareable config for the Google style
+  package_url: https://www.npmjs.com/eslint-config-google
+  version: 0.14.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16249/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-23 20:21:28.000000000 Z
+- name: gulp-autoprefixer
+  description: Prefix CSS
+  package_url: https://www.npmjs.com/gulp-autoprefixer
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16090/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-10-25 14:12:23.000000000 Z
+- name: gulp-babel
+  description: Use next generation JavaScript, today
+  package_url: https://www.npmjs.com/gulp-babel
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15963/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-02 16:56:08.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-10-25 14:12:23.000000000 Z
+- name: gulp-eslint
+  description: A gulp plugin for processing files with ESLint
+  package_url: https://www.npmjs.com/gulp-eslint
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16009/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-23 20:21:28.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-10-25 14:12:23.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-03 19:14:05.000000000 Z
+- name: gulp-uglify-es
+  description: Gulp stream to uglify with 'terser'
+  package_url: https://www.npmjs.com/gulp-uglify-es
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17806/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: James C Scott III
+  last_updated_on: 2022-10-25 14:12:23.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  version: 1.3.8
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eric Bidelman
+  last_updated_on: 2014-03-24 16:23:22.000000000 Z
+- name: kind-of
+  description: Get the native type of a value
+  package_url: https://www.npmjs.com/kind-of
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18422/default_fec2a16e3d4fd2d8184d454d72a65ab5133ec4ae.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jason Robbins
+  last_updated_on: 2020-04-06 22:34:03.000000000 Z
+- name: lodash.template
+  description: The Lodash method `_.template` exported as a module
+  package_url: https://www.npmjs.com/lodash.template
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17112/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Yann Dago
+  last_updated_on: 2023-03-30 18:15:56.000000000 Z
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-02-14 01:58:13.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-05 22:19:09.000000000 Z
+- name: regenerator-runtime
+  description: Runtime for Regenerator-compiled generator and async functions
+  package_url: https://www.npmjs.com/regenerator-runtime
+  version: 0.13.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Panagiotis Astithas
+  last_updated_on: 2023-05-08 19:25:35.000000000 Z
+- name: rollup-plugin-babel-minify
+  description: Simple rollup plugin for minifying code using babel-minify
+  package_url: https://www.npmjs.com/rollup-plugin-babel-minify
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16944/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-05 22:19:09.000000000 Z
+- name: sass
+  description: A pure JavaScript implementation of Sass
+  package_url: https://www.npmjs.com/sass
+  version: 1.62.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-03 19:14:05.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 6.1.15
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Eric Bidelman
+  last_updated_on: 2014-03-24 16:23:22.000000000 Z
+- name: urijs
+  description: URI.js is a Javascript library for working with URLs
+  package_url: https://www.npmjs.com/urijs
+  version: 1.19.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17237/default_4cd9fed0bfdeacace38f5fa25eb085538f01330b.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-12 17:43:40.000000000 Z
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 20.2.9
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-17 22:43:14.000000000 Z
+- name: connexion
+  description: Connexion - API first applications with OpenAPI/Swagger and Flask
+  package_url: https://pypi.org/project/connexion
+  version: 2.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20479/default_53ec395d3cbc3d93c33946e7e0873b0b6aded451.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/requirements.txt
+  detection_source: gen/py/chromestatus_openapi/requirements.txt
+  last_updated_by: James C Scott III
+  last_updated_on: 2023-03-24 21:26:49.000000000 Z
+- name: coverage
+  description: Code coverage measurement for Python
+  package_url: https://pypi.org/project/coverage
+  version: '5.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19904/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.dev.txt
+  detection_source: requirements.dev.txt
+  last_updated_by: Shivam Agarwal
+  last_updated_on: 2021-03-24 16:45:25.000000000 Z
+- name: mypy
+  description: Optional static typing for Python
+  package_url: https://pypi.org/project/mypy
+  version: '0.982'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20219/default_d4dd0466552a9776ca8535b869e22a3362790c94.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/requirements.dev.txt
+  detection_source: requirements.dev.txt
+  last_updated_by: Daniel Smith
+  last_updated_on: 2022-10-24 13:40:21.000000000 Z
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  version: 21.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/swadhin1515/chromium-dashboard/blob/main/gen/py/chromestatus_openapi/requirements.txt
+  detection_source: gen/py/chromestatus_openapi/requirements.txt
+  last_updated_by: James C Scott III
+  last_updated_on: 2023-03-24 21:26:49.000000000 Z
+  vulnerabilities:
+  - name: pypa/setuptools vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2022-40897
+    cve_url: https://github.com/advisories/GHSA-r9hx-vwmv-q579
+    detected_date: Dec 28
+    severity: high
+    first_patched: 65.5.1
